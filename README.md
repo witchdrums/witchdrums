@@ -1,4 +1,4 @@
-<h3 align="left">¡Hola! :D, I'm an aspiring software engineer.</h3>
+<h3 align="left">Hola</h3>
 
 <p align="left">Just your average student trying to get by. And if it wasn't already painfully obvious, this profile page is a bit of a work in progress. So, in the mean time...</p>
 <hr>
